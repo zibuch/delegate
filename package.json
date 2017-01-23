@@ -1,0 +1,25 @@
+{
+  "name": "delegate",
+  "version": "1.0.0",
+  "description": "it lets you run a function in a specific scope without a need of using _self or _this.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zibuch/delegate.git"
+  },
+  "keywords": [
+    "Delegate",
+    "closure",
+    "self",
+    "this"
+  ],
+  "author": "Michal Woznica",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zibuch/delegate/issues"
+  },
+  "homepage": "https://github.com/zibuch/delegate#readme"
+}
